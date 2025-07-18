@@ -197,7 +197,7 @@ Choose one of the following or combine:
 ![Bullish Z-Line](bullish_z_line.png)
 ![Bearish Z-Line](bearish_z_line.png)
 
-#### A visual representation of what this looks like on a higher timeframe.
+### A visual representation of what this looks like on a higher timeframe.
 
 Below is step-by-step example of how this looks on a higher timeframe and how you would trade z-lines using individual candles.
 
